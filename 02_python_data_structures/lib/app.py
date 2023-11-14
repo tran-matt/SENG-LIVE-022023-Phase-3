@@ -13,13 +13,13 @@ pet_names = ['Rose', 'Meow Meow Beans', 'Mr.Legumes', 'Luke', 'Lea', 'Princess G
 
 
 #4. ✅ Return all pet names before the 3rd index
-
+# print(pet_namems[:3])
 
 #5. ✅  Return all pet names beginning from the 3rd index and up to the 7th
-
+print(pet_names[3:7])
 
 #6. ✅ Find the index of a given element
-
+print(pet_names.index('Luke'))
 
 #7. ✅ Reverse the original list
 
